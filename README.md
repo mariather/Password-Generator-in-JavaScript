@@ -1,5 +1,9 @@
 # Password Generator in JavaScript
  
+
+ [click here to see the app](http://127.0.0.1:5500/02-Challenge/Develop/index.html)
+
+
 Application enable to generate strong random password based on some specific criteria confirmed by the user, which allows greater security. This app runs in the browser and features dynamically updated HTML and CSS powered by this code in JavaScript. It has a clean interfase that adapts to multiple screen sizes.
 
 ## Mock-Up
