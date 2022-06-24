@@ -8,9 +8,11 @@ Application enable to generate strong random password based on some specific cri
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+![](Images/Password%20generator.png)
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+The following gif shows the web application's appearance and functionality:
+
+![](Images/Password%20generator.gif)
 
 
 ## Prompt Criteria 
